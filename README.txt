@@ -1,5 +1,8 @@
 ******************************
 
+You have to import JCalander and Mysql Connector to project.
+
+ 
 Create a DATABASE
 Its name should be " buss " 
 
